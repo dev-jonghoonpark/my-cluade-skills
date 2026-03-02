@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these folders
+!skills/
+!skills/**
+!commands/
+!commands/**
+
+# And not gitignore itself
+!.gitignore
